@@ -15,18 +15,18 @@ My goal is to understand as much of the proposed knowledge as possible. Try to b
 
 ## Skills
 
-JavaScript<br/>
-HTML<br/>
-CSS<br/>
-SASS/SCSS<br/>
-GULP<br/>
-Webpack<br/>
-Git<br/>
-БЭМ<br/>
-Angular<br/>
-Visual Studio Code<br/>
-WebStorm<br/>
-Photoshop/Figma
+- JavaScript
+- HTML
+- CSS
+- SASS/SCSS
+- GULP
+- Webpack
+- Git
+- БЭМ
+- Angular
+- Visual Studio Code
+- WebStorm
+- Photoshop/Figma
 
 ## Code samples
 
@@ -68,7 +68,7 @@ elements.recipe.addEventListener('click', (e) => {
 
 **National Technical University – «Kharkiv Polytechnic Institute»** - _Master of Automobile Transport_
 
-##### Courses
+#### Courses
 
 [Skill-UP Front-end Courses](https://drive.google.com/file/d/14I_idtcCOZXI_5un2a9etgExNBowmJRa/view?usp=sharing)<br/>
 [HTML5 & CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)<br/>
