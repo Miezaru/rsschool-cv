@@ -1,0 +1,13 @@
+.wrapper {
+  width: 1024px;
+  background-color: azure;
+  position: relative;
+}
+
+.cv-photo {
+  position: absolute;
+  width: 240px;
+  height: 300px;
+  left: 70%;
+  top: 3%;
+}
