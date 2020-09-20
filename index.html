@@ -41,25 +41,25 @@
     </ul>
     <h3>Code Samples</h3>
     <p>JavaScript:</p>
-    <pre>
+    <pre class="cv-code-area">
   <code class="cv-code">
-// *Handling recipe button clicks
+    <span class="cv-code-comments">// *Handling recipe button clicks</span>
 elements.recipe.addEventListener('click', (e) => {
   if (e.target.matches('.btn-decrease, .btn-decrease *')) {
-    // *Decrease button is clicked
+    <span class="cv-code-comments">// *Decrease button is clicked</span>
     if (state.recipe.servings > 1) {
       state.recipe.updateServings('dec');
       recipeView.updateServingsIngredients(state.recipe);
     }
   } else if (e.target.matches('.btn-increase, .btn-increase *')) {
-    // *Increase button is clicked
+    <span class="cv-code-comments">// *Increase button is clicked</span>
     state.recipe.updateServings('inc');
     recipeView.updateServingsIngredients(state.recipe);
   } else if (e.target.matches('.recipe__btn--add, .recipe__btn--add *')) {
-    // *Add ingredients to shopping list
+    <span class="cv-code-comments">// *Add ingredients to shopping list</span>
     controlList();
   } else if (e.target.matches('.recipe__love, .recipe__love *')) {
-    // *Like controller
+    <span class="cv-code-comments">// *Like controller</span>
     controlLike();
   }
 });
