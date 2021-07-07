@@ -1,0 +1,23 @@
+.wrapper {
+  width: 1024px;
+  background-color: azure;
+  position: relative;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.cv-photo {
+  position: absolute;
+  width: 240px;
+  height: 300px;
+  left: 70%;
+  top: 3%;
+}
+
+.cv-code-area {
+  background-color: cornsilk;
+}
+
+.cv-code-comments {
+  color: green;
+}
